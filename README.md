@@ -8,3 +8,9 @@ https://itsamewill.github.io/PursuingMyDream-Demo/
 
 Any feedback will be appreciated!
 I'm still new to this, so, any tips will help!
+
+Controls:
+<br>
+WASD movement
+<br>
+Spacebar to jump
