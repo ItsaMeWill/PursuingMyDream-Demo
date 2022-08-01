@@ -29,3 +29,5 @@ Press M to mute / unmute the music
 Press E to activate visual effects
 <br>
 Press R to activate object pooling (to test performance in mobile devices)
+<br>
+Press Escape to pause / unpause the game
